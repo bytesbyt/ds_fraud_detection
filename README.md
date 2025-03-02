@@ -29,4 +29,5 @@ pip install requirements
     Naive Bayes,
     KNN,
     XGBoost
-- **Evaluation:** Analyzes accuracy
+- **Evaluation:** Analyzes accuracy with accuracy scores
+![Fraud Detection Model Evaluation](1.png)
