@@ -7,7 +7,7 @@ The notebook (`fraud_detection.ipynb`) includes data processing, feature enginee
 ## Requirements
 Install dependencies with:
 ```sh
-pip install requirements
+pip install -r requirements.txt
 ```
 
 ## Steps to Run
